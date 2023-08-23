@@ -1,9 +1,10 @@
 import './App.css';
+import Buyback from './pages/buyback';
 
 function App() {
   return (
     <div className="App">
-    <h1>This is the Investor Inshort App</h1>
+    <Buyback />
     </div>
   );
 }
